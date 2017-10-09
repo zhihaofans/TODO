@@ -1,3 +1,3 @@
 # TODO
-- [Android](android.md)
-- [Python](python.md)
+- [Android](Android.md)
+- [Python](Python.md)
