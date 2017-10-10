@@ -2,6 +2,13 @@
 
 ## App
 
+- 分享文本到剪贴板 ([CoolApk](https://www.coolapk.com/apk/163388)|[Google Play](https://play.google.com/store/apps/details?id=com.zhihaofans.share_to_clipboard))
+
+  1.继续压缩apk大小
+  
+  2.尝试使用svg图标
+
+
 - Shortcuts App ([CoolApk](https://www.coolapk.com/apk/com.zhihaofans.shortcutapp)|[Google Play](https://play.google.com/store/apps/details?id=com.zhihaofans.shortcutapp))
 
   1.优化代码
